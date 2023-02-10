@@ -24,6 +24,10 @@ h2{
     font-weight:normal;
     padding-bottom: 10px;
 }
+.pg{
+    margin:auto;
+    width:60%;
+}
 .bottom-cloud{
     position: absolute;
     left:250px;
